@@ -44,7 +44,7 @@
 
 
 
-# Coder: Shimian Zhang (Part 2)
+# Coder: Shimian Zhang 
 # email: svz5303@psu.edu
 ## Part 2 Descripsion:
 1. read camera internal and external parameters from Colmap running result.
@@ -52,10 +52,6 @@
 3. display poses of each camera on a 3D figure.
 4. project the 3D object vertices from world coordinate to camera coordinate. 
 5. use Z-buffer concept to fill each face of the 3D object, together with the corresponding image taken by each camera.
-
-## How To Run：
-## Run the Script (main.m) in Matlab 2020a directly.
-## Lower Matlab version with pcread() and pcshow() will be okay and Computer Vision Package is essential.
 
 ## File:
 ### matlab scripts : 
