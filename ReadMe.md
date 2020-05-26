@@ -41,7 +41,7 @@
 1. --- readObj.m : Read 3D model .obj file
 2. --- display_obj.m : to display the object
 
-
+![Result_1](https://github.com/HongZH2/AR_Scene/blob/master/results/cameras.png)
 
 
 # Coder: Shimian Zhang 
