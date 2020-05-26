@@ -41,11 +41,10 @@
 1. --- readObj.m : Read 3D model .obj file
 2. --- display_obj.m : to display the object
 
-![Result_1](https://github.com/HongZH2/AR_Scene/blob/master/results/cameras.png)
-
+![Result_1](https://github.com/HongZH2/AR_Scene/blob/master/results/After_RANSAC_Planefitting.png)
+![Result_2](https://github.com/HongZH2/AR_Scene/blob/master/results/cameras.png)
 
 # Coder: Shimian Zhang 
-# email: svz5303@psu.edu
 ## Part 2 Descripsion:
 1. read camera internal and external parameters from Colmap running result.
 2. compute camera pose (orientation + location) from the external parameter.
@@ -64,3 +63,7 @@
 1. --- Data/camera.txt
 2. --- Data/images.txt
 3. --- Data/dataset/xxx.jpeg (Original images taken by the same camera in different poses)
+
+![Result_3](https://github.com/HongZH2/AR_Scene/blob/master/results/projection_WechatIMG19.png)
+![Result_4](https://github.com/HongZH2/AR_Scene/blob/master/results/projection_WechatIMG17.png)
+
