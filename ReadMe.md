@@ -1,7 +1,7 @@
 # Project 2 
 # Course: Computer Vision, Spring 2020, CSE.
 
-# Coder: Hong Zhang (Part 1)
+# Coder: Hong Zhang
 # email: hmz5180@psu.edu
 ## Part 1 Descripsion:
 1. run Colmap, get the data file and point cloud (sparse and dense).
